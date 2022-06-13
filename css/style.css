@@ -112,7 +112,7 @@ main {
     margin: 0 auto 1em;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
-    background-color: #fff;
+    background-color: whitesmoke;
     box-shadow: -7px 0 8px -8px rgba(0, 0, 0, 0.253), 7px 0 8px -8px rgba(0, 0, 0, 0.253);
     
 }
@@ -127,13 +127,13 @@ main h2 {
 }
 .idroid {
     font-family: 'idroid','Roboto', sans-serif;
-    color: #185233;
+    color: var(--cor4);
 }
 strong {
-    color: #185233;
+    color: var(--cor4);
     font-weight: bold;
     font-size: 1em;
-    text-shadow: 0.5px 0.5px 0.5px #185233;
+    text-shadow: 0.5px 0.5px 0.5px var(--cor4);
     text-decoration: none;
 }
 article h1 {
@@ -141,7 +141,7 @@ article h1 {
 }
 article h2 {
     text-indent: 0.5em;
-    background-color: #c5ebd6;
+    background-color: var(--cor1);
     
 }
 article p {
