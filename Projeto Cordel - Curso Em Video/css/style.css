@@ -79,7 +79,7 @@ header p {
 /* IMAGENS */
 
 #img01 {
-    width: 100%;
+    
     background-size: cover;
     background-image: url('../img/background001.jpg');
     background-repeat: no-repeat;
@@ -90,7 +90,7 @@ header p {
 }
 
 #img02 {
-    width: 100%;
+    
     background-size: cover;
     background-image: url('../img/background002.jpg');
     background-repeat: no-repeat;
