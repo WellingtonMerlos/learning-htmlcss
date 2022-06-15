@@ -1,5 +1,5 @@
 # curso-htmlcss
-Projetos que desenvolvi aprendendo HTML5 e CSS3.
+Alguns projetos simples que desenvolvi aprendendo HTML5 e CSS3.
 Agradecimento especial ao Prof. Gustavo Guanabara do Curso Em Vídeo e a Alura.
 
 Projetos:<br>
