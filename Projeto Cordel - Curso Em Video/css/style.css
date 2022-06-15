@@ -17,7 +17,15 @@
     font-size: 1em;
     margin: 0px;
     padding: 0px;
-    box-sizing: border-box;
+    
+}
+a {
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    text-decoration: underline;
 }
 
 /* CABEÇALHO */
@@ -38,25 +46,25 @@ header p {
     font-size: 1em;
     font-family: var(--fonte03);
 }
-header a {
-    text-decoration: none;
-    font-weight: bold;
-    color: whitesmoke;
-}
 
 /* CONTEUDO PRINCIPAL */
 .container {
     width: 100%;
-    padding: 4vw;
+    padding-top: 11vh;
+    padding-bottom: 11vh;
     font-size: 3.5vw;
     font-family: var(--fonte01);
     line-height: 2em;
+}
+.container p {
+    margin-left: 1em;
 }
 .container-img {
     width: 100%;
     color: whitesmoke;
     background-color: rgba(0, 0, 0, 0.301);
-    padding: 1em;
+    padding-top: 11vh;
+    padding-bottom: 11vh;
     font-size: 3.5vw;
     font-family: var(--fonte01);
     line-height: 2em;
@@ -66,6 +74,7 @@ header a {
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.418);
     padding: 0.5vw;
+    margin-left: 1em;
 }
 /* IMAGENS */
 
@@ -75,6 +84,7 @@ header a {
     background-image: url('../img/background001.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center right;
     
 
 }
@@ -97,12 +107,4 @@ footer p {
     color: whitesmoke;
     text-align: center;
     padding: 0.5em;
-}
-footer a {
-    color: whitesmoke;
-    text-decoration: none;
-    font-weight: bold;
-}
-footer a:hover {
-    text-decoration: underline;
 }
