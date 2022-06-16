@@ -151,7 +151,7 @@ thead {
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
-    text-shadow: 2px 2px #585858;
+    text-shadow: 2px 2px #58585836;
 }
 .principal {
     padding: 3em 0;
@@ -214,7 +214,7 @@ thead {
     width: 60%;
     opacity: 1;
     transition: 400ms;
-    box-shadow: 10px 10px 5px #000000;
+    box-shadow: 10px 10px 5px #00000059;
     
 }
 .imagem-beneficios:hover {
