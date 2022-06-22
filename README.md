@@ -1,4 +1,4 @@
-# curso-htmlcss
+# learning-htmlcss
 Alguns projetos simples que desenvolvi aprendendo HTML5 e CSS3.
 
 Projetos:<br>
