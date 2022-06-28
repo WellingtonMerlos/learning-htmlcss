@@ -1,13 +1,13 @@
-.menu-link {
+.menu__link {
     text-decoration: none;
     color: #808080;
     text-transform: lowercase;
     margin-right: 1.25rem;
 }
-.menu-link.destaque {
+.menu__link.destaque {
     color: #333333;
     font-weight: bold;
 }
-.menu-link:hover {
+.menu__link:hover {
     text-decoration: underline;
 }
